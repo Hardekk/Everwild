@@ -64,6 +64,7 @@ without ever losing the vanilla spirit.
 ❌ Not supported.
 
 ¹ A few see-through Overgrowth details on solid blocks aren't shown on these versions.
+
 ² Minecraft shows a harmless "made for a newer version" warning, just enable the pack anyway.
 
 **Installation:** drop the `.zip` into your `resourcepacks` folder and enable it in *Options → Resource Packs*.
