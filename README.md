@@ -50,11 +50,19 @@ without ever losing the vanilla spirit.
 
 | Version | Forge / NeoForge | Fabric / Vanilla |
 |---|:---:|:---:|
-| 1.20.1 | ✅ | ✅ |
+| 1.13 and older | ❌ | ❌ |
+| 1.14 – 1.18 | 🟧 | 🟧 |
+| 1.19 – 1.19.4 | ✅ ² | ✅ ² |
+| 1.20 – 1.20.1 | ✅ | ✅ |
 | 1.20.2 – 1.21.11 | ✅ | ✅ ¹ |
 | 26.1 – 26.3 | ✅ | ✅ |
 
+✅ Supported.
+🟧 Partial: most textures work, newer blocks and some Overgrowth details may be missing.
+❌ Not supported.
+
 ¹ A few see-through Overgrowth details on solid blocks aren't shown on these versions.
+² Minecraft shows a harmless "made for a newer version" warning, just enable the pack anyway.
 
 **Installation:** drop the `.zip` into your `resourcepacks` folder and enable it in *Options → Resource Packs*.
 
