@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Minecraft looking like Minecraft, with a medieval touch.</b><br>
+  <b>Minecraft looking like Minecraft with a medieval touch.</b><br>
   <i>Crafted by Hardek</i>
 </p>
 
@@ -22,7 +22,7 @@
 <p align="center"><img src="images/about.png" alt="About"></p>
 
 Everwild keeps Minecraft looking like Minecraft, with a medieval touch.
-Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in
+Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in —
 without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/features.png" alt="Features"></p>
@@ -60,16 +60,16 @@ without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/gallery.png" alt="Gallery"></p>
 
-<p align="center"><img src="images/Capture d’écran (1734).png" alt="Everwild house" width="100%"></p>
+<p align="center"><img src="images/screenshot1.png" alt="Everwild Village" width="100%"></p>
 
 <p align="center"><img src="images/terms.png" alt="Terms"></p>
 
 - ✅ Play with it, share it, make videos and screenshots with it.
-- ✅ Use it in modpacks, just link back to the official page please :)
+- ✅ Use it in modpacks, simply just link back to the official page please! 
 - ❌ Don't reupload the pack or its textures elsewhere.
 - ❌ Don't claim the textures as your own.
 
 See [LICENSE.md](LICENSE.md) for details.
 
-<p align="center"><sub>© 2026 Hardek. Tjis is NOT an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub></p>
+<p align="center"><sub>© 2026 Hardek. This is NOT an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub></p>
 
