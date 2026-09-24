@@ -60,7 +60,7 @@ without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/gallery.png" alt="Gallery"></p>
 
-<p align="center"><img src="images/screenshot1.png" alt="Everwild house" width="100%"></p>
+<p align="center"><img src="images/Capture d’écran (1734).png" alt="Everwild house" width="100%"></p>
 
 <p align="center"><img src="images/terms.png" alt="Terms"></p>
 
