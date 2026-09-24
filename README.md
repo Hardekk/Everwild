@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png" alt="Everwild — A MedieVanilla experience" width="100%">
+  <img src="images/header.png" alt="Everwild, A MedieVanilla experience" width="100%">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ without ever losing the vanilla spirit.
 <p align="center"><img src="images/terms.png" alt="Terms"></p>
 
 - ✅ Play with it, share it, make videos and screenshots with it.
-- ✅ Use it in modpacks — just link back to the official page.
+- ✅ Use it in modpacks, just link back to the official page.
 - ❌ Don't reupload the pack or its textures elsewhere.
 - ❌ Don't claim the textures as your own.
 
