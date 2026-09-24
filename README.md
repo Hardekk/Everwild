@@ -60,9 +60,7 @@ without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/gallery.png" alt="Gallery"></p>
 
-<!-- Add your screenshots in images/ and list them here, e.g.:
-<p align="center"><img src="images/screenshot1.png" width="49%"> <img src="images/screenshot2.png" width="49%"></p>
--->
+<p align="center"><img src="images/screenshot1.png" alt="Everwild village" width="100%"></p>
 
 <p align="center"><img src="images/terms.png" alt="Terms"></p>
 
