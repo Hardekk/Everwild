@@ -58,7 +58,9 @@ without ever losing the vanilla spirit.
 | 26.1 – 26.3 | ✅ | ✅ |
 
 ✅ Supported.
+
 🟧 Partial: most textures work, newer blocks and some Overgrowth details may be missing.
+
 ❌ Not supported.
 
 ¹ A few see-through Overgrowth details on solid blocks aren't shown on these versions.
