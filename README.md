@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Minecraft looking like Minecraft — with a medieval touch.</b><br>
+  <b>Minecraft looking like Minecraft with a medieval touch.</b><br>
   <i>Crafted by Hardek</i>
 </p>
 
@@ -22,16 +22,16 @@
 <p align="center"><img src="images/about.png" alt="About"></p>
 
 Everwild keeps Minecraft looking like Minecraft, with a medieval touch.
-Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in —
+Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in
 without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/features.png" alt="Features"></p>
 
 - **Medieval details, vanilla soul** — plank doors with forged iron hinges, leaded glass, iron-banded chests, wrought-iron grilles.
-- **No copy-paste worlds** — most blocks come in several random variants, so walls and landscapes never repeat.
-- **Lived-in villages** — soot-stained furnaces, worn crafting tables, rusty barrels, sun-faded wool, furrowed farmland.
-- **A medieval font** — original, inspired by old manuscripts, still easy to read.
-- **Stays familiar** — the UI, HUD and mobs remain vanilla.
+- **No copy-paste worlds** : most blocks come in several random variants, so walls and landscapes never repeat.
+- **Lived-in villages** : soot-stained furnaces, worn crafting tables, rusty barrels, sun-faded wool, furrowed farmland.
+- **A medieval font** : original, inspired by old manuscripts, still easy to read.
+- **Stays familiar** : the UI, HUD and mobs remain vanilla.
 
 <p align="center"><img src="images/overgrowth.png" alt="Overgrowth"></p>
 
