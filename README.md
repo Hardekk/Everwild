@@ -22,7 +22,7 @@
 <p align="center"><img src="images/about.png" alt="About"></p>
 
 Everwild keeps Minecraft looking like Minecraft, with a medieval touch.
-Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in —
+Stone looks weathered, wood looks worked by hand, and every village feels a little more lived in,
 without ever losing the vanilla spirit.
 
 <p align="center"><img src="images/features.png" alt="Features"></p>
