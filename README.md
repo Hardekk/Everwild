@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.20.1%20→%2026.3-5b8731?style=for-the-badge" alt="Minecraft 1.20.1 to 26.3">
+  <img src="https://img.shields.io/badge/Minecraft-1.20.1%20→%2026.3-5b8731?style=for-the-badge" alt="Minecraft 1.19 to 26.3">
   <img src="https://img.shields.io/badge/Forge%20·%20NeoForge%20·%20Fabric-supported-8b5a2b?style=for-the-badge" alt="Loaders">
   <img src="https://img.shields.io/badge/Resolution-16x-6b6b6b?style=for-the-badge" alt="16x">
 </p>
